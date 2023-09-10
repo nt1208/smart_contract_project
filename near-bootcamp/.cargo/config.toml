@@ -1,0 +1,6 @@
+RUSTFLAGS='-C link-arg=-s'
+[alias]     # command aliases
+b = "build"
+t = "test"
+r = "run"
+m = "make"
